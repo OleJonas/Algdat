@@ -5,4 +5,5 @@
 /out
 *.iml
 *.class
-*/Norden
+*/Norden/*
+*/Kart/Norden
